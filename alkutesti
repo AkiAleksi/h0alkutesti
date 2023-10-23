@@ -1,6 +1,6 @@
 # h1 - Alkutesti
 
 Tero Karvisen nettisivujen alkusivulla on 23 requestia. Pyyntöjen aika vaihtelee melko paljon.  Lyhin aika on 3ms. favicon.ico pyyntö sai lyhyimmän vastausajan. Pisin taas on 122ms. Pisin vastaus oli pyyntöön terokarvinen.com. 
-Vastaus terokarvinen.com pyyntöön on HTML. Headersissa näkyy, että kyseessä on GET pyyntö. Contentype pyynnössä on text/html. Pyynnön koko tavuina on 4637. 
+Vastaus terokarvinen.com pyyntöön on HTML. Headersissa näkyy, että kyseessä on GET pyyntö. Contentype pyynnössä on text/html. Pyynnön koko tavuina on 4637. Oli hieman teknisiä ongelmia, joten kirjoitin tämän raportin 12 minuutissa. Jäi aika lyhyeksi ajan vuoksi.
 
 .
